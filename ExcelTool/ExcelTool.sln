@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelABMergeTool", "ExcelABMergeTool\ExcelABMergeTool.csproj", "{36EE3DB8-8831-4820-81D7-3AE01984B455}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelLib", "ExcelLib\ExcelLib.csproj", "{999C82A8-888C-4BDD-9F14-A54F4E2D8711}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelMacrosExec", "ExcelMacrosExec\ExcelMacrosExec.csproj", "{7CE711C2-8209-4AA5-93B6-F9BDD585EFBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36EE3DB8-8831-4820-81D7-3AE01984B455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36EE3DB8-8831-4820-81D7-3AE01984B455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36EE3DB8-8831-4820-81D7-3AE01984B455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36EE3DB8-8831-4820-81D7-3AE01984B455}.Release|Any CPU.Build.0 = Release|Any CPU
+		{999C82A8-888C-4BDD-9F14-A54F4E2D8711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{999C82A8-888C-4BDD-9F14-A54F4E2D8711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{999C82A8-888C-4BDD-9F14-A54F4E2D8711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{999C82A8-888C-4BDD-9F14-A54F4E2D8711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CE711C2-8209-4AA5-93B6-F9BDD585EFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE711C2-8209-4AA5-93B6-F9BDD585EFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE711C2-8209-4AA5-93B6-F9BDD585EFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE711C2-8209-4AA5-93B6-F9BDD585EFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
